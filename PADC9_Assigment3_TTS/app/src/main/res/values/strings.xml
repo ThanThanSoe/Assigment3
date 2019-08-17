@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PADC9_Assigment3_TTS</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_calendar_event">Calendar Event</string>
+    <string name="btn_capture_video">Capture Video</string>
+    <string name="btn_capture_without_data">Capture Video without Data</string>
+    <string name="btn_play_video">Play Video</string>
+    <string name="btn_pick_contack">Pick Contact</string>
+    <string name="btn_search">Search</string>
+</resources>
